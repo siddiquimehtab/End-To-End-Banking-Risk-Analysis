@@ -41,6 +41,9 @@ Data Collection → Data Cleaning → Feature Engineering → Model Training →
 ## Objective
 Predict whether a banking customer is likely to leave the bank.
 
+## Dataset Link
+https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers
+
 ## Dataset Features
 - CreditScore
 - Geography
@@ -71,6 +74,9 @@ Class weights were used to improve the model's ability to correctly identify chu
 
 ## Objective
 Predict whether a borrower is likely to default on a loan.
+
+## Dataset Link
+https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 ## Dataset Features
 - Income
